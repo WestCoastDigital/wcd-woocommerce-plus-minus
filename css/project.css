@@ -1,0 +1,8 @@
+.woocommerce .quantity {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.woocommerce .quantity .qty-btn {
+    cursor: pointer;
+}
